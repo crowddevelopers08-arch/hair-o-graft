@@ -65,7 +65,7 @@ export default function HairOGraftOverview() {
           overflow: hidden;
         }
 
-        /* ── HERO BAND ── */
+        
         .hog2-hero {
           position: relative;
           background: var(--ink);
