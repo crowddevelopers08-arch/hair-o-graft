@@ -49,7 +49,7 @@
   color: #fff;
 }
 
-/* Rotating gradient card border */
+/* Rotating gradient */
 @keyframes spin-border {
   0%   { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
